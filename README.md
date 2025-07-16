@@ -1,1 +1,2 @@
- Repositorio criado para o 1º desafio de código da DIO 
+# CalculadoraRankeadas
+Projeto criado para resolução do desafio de código
